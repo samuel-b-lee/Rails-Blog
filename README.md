@@ -12,7 +12,12 @@ http://www.theodinproject.com/web-development-101/ruby-on-rails + http://tutoria
 
 ##Outcomes:
 1. Familiarize with fundamentals of Rails
-2. Familiarize with Rails conventions
-3. Familiarize with MVC software architecture
-4. Practice making websites with html, css, javascript, jQuery and ruby
-5. Practice version control with Git
+* Model, View and Controller software architecture 
+* Data structures and relationships
+* Routing
+* Migrations
+* Views with forms, partials and helpers
+* RESTful design
+* Adding gems for extra features
+2. Practice making websites with html, css, javascript, jQuery and ruby
+3. Practice version control with Git
