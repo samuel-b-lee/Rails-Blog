@@ -6,6 +6,7 @@
 
 ##Project Details:
 http://www.theodinproject.com/web-development-101/ruby-on-rails + http://tutorials.jumpstartlab.com/projects/blogger.html  
+(note: css styling provided by jumpstartlab.com)
 
 ##Goal:
 * Create a blog on Rails with heroku  
