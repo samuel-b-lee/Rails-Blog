@@ -8,9 +8,11 @@
 	<% end %>
 </ul>
 
-<p> 
-	<%= link_to "Create a New Article", new_article_path,class: "new_article" %>
-</p>
+<% if logged_in? %>
+	<p> 
+		<%= link_to "Create a New Article", new_article_path,class: "new_article" %>
+	</p>
+<% end %>
 
 <br/>
 
