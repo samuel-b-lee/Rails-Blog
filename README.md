@@ -2,16 +2,16 @@
 
 ## The Odin Project: Project Four: Ruby on Rails
 
-##Preview Link:
+## Preview Link:
 
-##Project Details:
+## Project Details:
 http://www.theodinproject.com/web-development-101/ruby-on-rails + http://tutorials.jumpstartlab.com/projects/blogger.html  
 (note: css styling provided by jumpstartlab.com)
 
-##Goal:
+## Goal:
 * Create a blog on Rails with heroku  
 
-##Outcomes:
+## Outcomes:
 1. Familiarize with fundamentals of Rails
 	* Model, View and Controller software architecture 
 	* Data structures and relationships
